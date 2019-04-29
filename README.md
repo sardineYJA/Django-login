@@ -1,5 +1,5 @@
 # Django-login
-## 基于Django2.2可重用登录与注册系统 <br>
+## 基于Django可重用登录与注册系统 <br>
 学习Django链接：http://www.liujiangblog.com/course/django/102 <br> 
 过程遇到版本不兼容,测试后使用Django版本2.0.0，数据库mysql版本5.5 <br>
 先将mysite/settings.py中的邮箱补充完整 <br>
